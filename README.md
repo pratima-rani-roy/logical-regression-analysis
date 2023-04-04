@@ -2,7 +2,9 @@
 python, ML
 
 git init
+---------
 git config --list
+-----
 git config --global user.name "pratima-rani-roy"
 git config --global user.email "pratimaraniroybsc@gmail.com"
 git add -A
